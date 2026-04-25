@@ -1,0 +1,21 @@
+{
+  "name": "seva-setu",
+  "version": "1.0.0",
+  "description": "A real-time crisis management dashboard with Gemini AI voice integration.",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crisis-management",
+    "gemini-ai",
+    "dashboard",
+    "india-relief"
+  ],
+  "author": "Abhyush",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
